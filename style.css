@@ -1,0 +1,27 @@
+body{
+    text-align: center;
+}
+
+img {
+    margin-top: 25px;
+    margin-bottom: 25px;
+    margin-left: 15px;
+    margin-right: 15px;
+}
+.Body-Info{
+    margin-top: 50px;
+}
+
+.walletSearch{
+    margin-top: 30px;
+    margin-bottom: 25px;
+}
+
+footer {
+    position: absolute;
+    left: 0;
+    bottom: 0;
+    height: 100px;
+    width: 100%;
+    overflow: hidden;
+}
